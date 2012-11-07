@@ -1,0 +1,15 @@
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\TestInCSharpCon.exe
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\TestInCSharpCon.pdb
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\MWArray.dll
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\TestMatlabNet.dll
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\MWArray.xml
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\TestInCSharpCon.exe
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\TestInCSharpCon.pdb
+C:\Users\ratman\Documents\Visual Studio 2010\Projects\TestInCSharpCon\TestInCSharpCon\bin\Debug\AlgoTradingDemo.dll
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\TestInCSharpCon.exe
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\TestInCSharpCon.pdb
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\bin\Debug\TestInCSharpCon.exe
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\bin\Debug\TestInCSharpCon.pdb
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\bin\Debug\MWArray.dll
+C:\Users\caustic\Documents\QuantLabs.net\slscribd ideshare.net\software\TestInCSharpCon\TestInCSharpCon\TestInCSharpCon\obj\x86\Debug\ResolveAssemblyReference.cache
